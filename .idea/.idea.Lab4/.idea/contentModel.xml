@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\zenbook\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\zenbook\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Lab4.-2070082395.00" t="ExcludeRecursive" />
+    <e p="C:\Users\zenbook\RiderProjects\Lab4" t="IncludeFlat">
+      <e p="Lab4" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Lab4.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Lab4.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="serialization" t="Include">
+          <e p="tokenization" t="Include">
+            <e p="INIToken.cs" t="Include" />
+            <e p="INITokenizer.cs" t="Include" />
+            <e p="INITokenType.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Lab4.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
